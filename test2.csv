@@ -1,0 +1,6 @@
+Port Name,State,Port Code,Border,Date,Measure,Value,Latitude,Longitude,Point
+Lukeville,Arizona,2602,US-Mexico Border,2023-02-01,Pedestrians,6383,31.88,-112.817,POINT (-112.817077 31.880195)
+Dalton Cache,Alaska,3106,US-Canada Border,2023-02-01,Personal Vehicles,294,59.451,-136.362,POINT (-136.361944 59.450556)
+Calexico East,California,2507,US-Mexico Border,2023-02-01,Pedestrians,39683,32.673,-115.388,POINT (-115.388018 32.673389)
+Wildhorse,Montana,3323,US-Canada Border,2020-01-01,Personal Vehicles,491,48.999,-110.215,POINT (-110.215083 48.999361)
+Roma,Texas,2310,US-Mexico Border,2020-01-01,Personal Vehicles,63397,26.404,-99.019,POINT (-99.018981 26.403928)

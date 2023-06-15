@@ -1,0 +1,6 @@
+Port Name,State,Port Code,Border,Date,Measure,Value,Latitude,Longitude,Point
+Del Rio,Texas,2302,US-Mexico Border,2023-02-01,Trucks,5823,29.327,-100.928,POINT (-100.927612 29.326784)
+Roma,Texas,2310,US-Mexico Border,2009-08-01,Trains,0,26.404,-99.019,POINT (-99.018981 26.403928)
+Skagway,Alaska,3103,US-Canada Border,2023-02-01,Pedestrians,1,59.63,-135.164,POINT (-135.164444 59.629722)
+Westhope,North Dakota,3419,US-Canada Border,2020-01-01,Personal Vehicles,570,49,-101.017,POINT (-101.017277 48.999611)
+Sherwood,North Dakota,3414,US-Canada Border,2020-01-01,Personal Vehicles,1022,48.999,-101.628,POINT (-101.627527 48.999305)
